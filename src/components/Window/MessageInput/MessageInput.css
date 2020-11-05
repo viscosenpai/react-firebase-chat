@@ -1,0 +1,32 @@
+.MessageInput {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #eeeeee;
+  flex: 0;
+}
+
+.Form {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+}
+
+.Input {
+  height: 2.5rem;
+  padding: 0 8px;
+  border: 1px solid #e5e5e5;
+  flex: 1
+}
+
+.SubmitButton {
+  width: 96px;
+  height: 2.5rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 3px;
+  background-color: #007dd1;
+  color: #ffffff;
+  margin-left: 20px;
+  padding: 0 6px;
+}
